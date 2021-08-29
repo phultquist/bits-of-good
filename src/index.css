@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+h1 {
+  font-family: 'Inter', sans-serif;
+}
+
+input:checked + div {
+  @apply bg-blue-500 border-blue-500;
+}
+input:checked + div svg {
+  @apply block;
+}
+
+button.active {
+  @apply bg-gray-200;
+}
