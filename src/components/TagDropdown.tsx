@@ -5,7 +5,7 @@ const SelectableTag = (props: { name: string, selected: boolean, onClick: (e: Re
 
     return <div onClick={(e) => {
         props.onClick(e);
-    }} className={`border-b border-gray-200 flex justify-between pl-2 pr-4 py-2.5 font-normal hover:bg-gray-200 cursor-pointer ${props.selected ? "bg-gray-100" : "bg-white"}`}>
+    }} className={`max-h-14 border-b border-gray-200 flex justify-between pl-2 pr-4 py-2.5 font-normal hover:bg-gray-200 cursor-pointer ${props.selected ? "bg-gray-100" : "bg-white"}`}>
         {props.name === "no-tags" ?
             <span className="text-gray-600 ml-2 text-sm">no tags</span> :
             <Tag name={props.name} marginT={0} />
