@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bits-of-good/static/css/main.d8ddbb3f.chunk.css",
+    "main.js": "/bits-of-good/static/js/main.ccbe098b.chunk.js",
+    "main.js.map": "/bits-of-good/static/js/main.ccbe098b.chunk.js.map",
+    "runtime-main.js": "/bits-of-good/static/js/runtime-main.cc7ab880.js",
+    "runtime-main.js.map": "/bits-of-good/static/js/runtime-main.cc7ab880.js.map",
+    "static/js/2.515efb58.chunk.js": "/bits-of-good/static/js/2.515efb58.chunk.js",
+    "static/js/2.515efb58.chunk.js.map": "/bits-of-good/static/js/2.515efb58.chunk.js.map",
+    "static/js/3.2a53a9b3.chunk.js": "/bits-of-good/static/js/3.2a53a9b3.chunk.js",
+    "static/js/3.2a53a9b3.chunk.js.map": "/bits-of-good/static/js/3.2a53a9b3.chunk.js.map",
+    "index.html": "/bits-of-good/index.html",
+    "static/css/main.d8ddbb3f.chunk.css.map": "/bits-of-good/static/css/main.d8ddbb3f.chunk.css.map",
+    "static/js/2.515efb58.chunk.js.LICENSE.txt": "/bits-of-good/static/js/2.515efb58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc7ab880.js",
+    "static/js/2.515efb58.chunk.js",
+    "static/css/main.d8ddbb3f.chunk.css",
+    "static/js/main.ccbe098b.chunk.js"
+  ]
+}
